@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{BBDCC07E-6F69-4153-96AB-D3CC50E1BF54}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/DevIO.AppModelo/appsettings.Development.json">
+    <Files>
+      <File FileName="src/DevIO.AppModelo/Program.cs" Line="1" Column="1" />
+      <File FileName="src/DevIO.AppModelo/Startup.cs" Line="34" Column="66" />
+      <File FileName="src/DevIO.AppModelo/appsettings.json" Line="1" Column="1" />
+      <File FileName="src/DevIO.AppModelo/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="src/DevIO.AppModelo/appsettings.Development.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AppModelo" expanded="True">
+            <Node name="DevIO.AppModelo" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>AppModelo/src.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DevIO.AppModelo PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
