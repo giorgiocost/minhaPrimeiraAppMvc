@@ -1,13 +1,13 @@
 ﻿<Properties StartupConfiguration="{BBDCC07E-6F69-4153-96AB-D3CC50E1BF54}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="src/DevIO.AppModelo/Views/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/DevIO.AppModelo/Views/_ViewStart.cshtml">
     <Files>
       <File FileName="src/DevIO.AppModelo/Program.cs" Line="1" Column="1" />
-      <File FileName="src/DevIO.AppModelo/Startup.cs" Line="34" Column="99" />
-      <File FileName="src/DevIO.AppModelo/appsettings.json" Line="1" Column="1" />
-      <File FileName="src/DevIO.AppModelo/Properties/launchSettings.json" Line="1" Column="1" />
-      <File FileName="src/DevIO.AppModelo/appsettings.Development.json" Line="10" Column="1" />
-      <File FileName="src/DevIO.AppModelo/Controllers/HomeController.cs" Line="10" Column="27" />
-      <File FileName="src/DevIO.AppModelo/Views/Index.cshtml" Line="1" Column="1" />
+      <File FileName="src/DevIO.AppModelo/Startup.cs" />
+      <File FileName="src/DevIO.AppModelo/Properties/launchSettings.json" />
+      <File FileName="src/DevIO.AppModelo/appsettings.Development.json" />
+      <File FileName="src/DevIO.AppModelo/Controllers/HomeController.cs" />
+      <File FileName="src/DevIO.AppModelo/Views/Shared/_Layout.cshtml" Line="8" Column="5" />
+      <File FileName="src/DevIO.AppModelo/Views/_ViewStart.cshtml" Line="2" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,7 +16,9 @@
             <Node name="DevIO.AppModelo" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Index.cshtml" selected="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+                <Node name="_ViewStart.cshtml" selected="True" />
               </Node>
             </Node>
           </Node>
