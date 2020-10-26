@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="src/DevIO.AppModelo/Views/Shared/_Layout.cshtml">
     <Files>
       <File FileName="src/DevIO.AppModelo/Startup.cs" Line="31" Column="14" />
-      <File FileName="src/DevIO.AppModelo/Views/Shared/_Layout.cshtml" Line="44" Column="13" />
+      <File FileName="src/DevIO.AppModelo/Views/Shared/_Layout.cshtml" Line="46" Column="19" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,7 +16,8 @@
                 </Node>
               </Node>
               <Node name="wwwroot" expanded="True">
-                <Node name="lib" expanded="True" />
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
               </Node>
             </Node>
           </Node>
